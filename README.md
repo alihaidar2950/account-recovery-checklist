@@ -93,3 +93,17 @@ your password or two-factor code. **Change your password and revoke other sessio
 - Instagram [account recovery](https://www.instagram.com/hacked/) and [connected apps and websites](https://www.facebook.com/help/instagram/1144624522593085)
 - Google [secure a compromised account](https://support.google.com/accounts/answer/6294825)
 - Microsoft [Windows Security scan options](https://support.microsoft.com/en-us/windows/security/threat-malware-protection/virus-and-threat-protection-in-the-windows-security-app) and [how ClickFix works](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior%3AWin32%2FClickFix)
+
+---
+
+### What next? · شو بعد؟
+
+- ⭐ Star this repo if it helped, so more people find it.
+- Follow [@alihaidar.dev](https://www.instagram.com/alihaidar.dev/) on Instagram or [TikTok](https://www.tiktok.com/@alihaidar.dev) for the next free guide.
+- All my free guides: [github.com/alihaidar2950](https://github.com/alihaidar2950?tab=repositories)
+
+<div dir="rtl">
+
+إذا فادك، حطّ ⭐ عالـrepo، وتابعني عَ [إنستغرام](https://www.instagram.com/alihaidar.dev/) أو [تيك توك](https://www.tiktok.com/@alihaidar.dev) لتوصلك الأداة الجاية ببلاش.
+
+</div>
